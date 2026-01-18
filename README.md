@@ -95,12 +95,23 @@ This structure allows you to **learn patterns independently** while also underst
 
 ## How to Use This Repository
 
-1. Start with **Creational Patterns** (especially Singleton and Factory)
+1. Start with **Creational Patterns** (especially Builder method)
 2. Move to **Structural Patterns** to understand object composition
 3. Finish with **Behavioral Patterns** for communication and flow control
 
 Each pattern builds intuition that helps you understand the next.
 
 ---
+## Additional Resources
 
-Happy learning and clean coding.
+* **[Gang of Four (GoF) Design Patterns – GeeksforGeeks Blog](https://www.geeksforgeeks.org/system-design/gang-of-four-gof-design-patterns/)**
+  Blog article on GeeksforGeeks explaining the Gang of Four (GoF) design patterns.
+
+* **[Gang of Four Design Patterns – YouTube Playlist](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=LAFeleAONzHb7ITD)**
+  Video playlist covering GoF design patterns.
+
+* **[Design Patterns: Elements of Reusable Object-Oriented Software (Book PDF)](https://www.javier8a.com/itc/bd1/articulo.pdf)**
+  Link to the classic GoF design patterns book.
+
+
+Happy learning and clean coding!
